@@ -1,1 +1,1 @@
-"print('hello world')" 
+print('¾È³ç?')
